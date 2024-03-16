@@ -1,0 +1,5 @@
+open sftp://rcs@99.236.76.230/ -hostkey="ssh-ed25519 255 0v1bPYOIoqe3pE0iqjYuJrTRgXDgZQLcYW1IVfkFYSo" -privatekey="C:\Users\user\Desktop\Rent Connect Solutions inc\Rent ConnectME Documents\ssh keys\Private Key Windows.ppk" -rawsettings AuthGSSAPIKEX=1 ^ 
+
+get /var/www/RCM-BACKUP-* C:\Users\user\Desktop\
+
+exit
