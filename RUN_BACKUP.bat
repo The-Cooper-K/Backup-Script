@@ -4,7 +4,7 @@
 echo --------------
 echo PREPARING ZIP
 echo --------------
-ssh -i "C:\Users\user\Desktop\Rent Connect Solutions inc\Rent ConnectME Documents\ssh keys\Alt private key.pem" rcs@99.236.76.230 -t "cd /var/www/; echo rcsincusernamee2$ | sudo -S zip -r RCM-BACKUP- rentconnectme.com; exit; bash"
+ssh -i "C:\Users\user\Desktop\Rent Connect Solutions inc\Rent ConnectME Documents\ssh keys\Alt private key.pem" rcs@99.236.76.230 -t "cd /var/www/; echo  | sudo -S zip -r RCM-BACKUP- rentconnectme.com; exit; bash"
  
 ::Step 2 GET THE FOLDER
 echo ------------------------
